@@ -1,11 +1,46 @@
 {
     "food": [
     "Arrowroot: Flour",
+    "Applesauce: Pumpkin puree",
     "Bread crumbs: Cracker crumbs",
     "Baking powder: Banking soda",
     "Buttermilk: Milk",
     "Beef: Tofu",
-    "Corn Syrup: "
+    "Corn Syrup: Honey",
+    "Cornstarch: Flour",
+    "Milk: Lemon juice",
+    "Eggs: Applesauce",
+    "Honey: Mapel syrup",
+    "Buter: Margarine",
+    "Buttermilk: Lemon juice",
+    "Avacado: Cooked squash",
+    "Bacon: tofu",
+    "Cauliflower: Brockoli",
+    "Chicken: Beans",
+    "Gelatin: Cornstarch",
+    "Cheese: Yeast flakes",
+    "Mayonnaise: Grape seed oil mayonnaise",
+    "Ice cream: sherbet",
+    "Cream: Coconut milk",
+    "Cheese: Vegan cheese",
+    "Meat stock: Vegetable broth",
+    ]
+}
 
+{
+    "drinks": [
+        "Milk: Soy Milk",
+        "Milk: Coconut Milk",
+        "Milk: Oat Milk",
+        "Milk: Rice Milk",
+        "Milk: Almond Milk",
+        "Milk: Hemp Milk",
+        "Milk: Coconut Milk",
+        "Milk: Quinoa Milk",
+        "Milk: Flax Milk",
+        "Cappuccino: Black Coffee",
+        "Beer: Buckwheat Beer",
+        "Beer: Corn Beer",
+        "Beer: Rice Beer"
     ]
 }
